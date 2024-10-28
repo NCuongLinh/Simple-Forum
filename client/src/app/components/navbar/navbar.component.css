@@ -1,7 +1,22 @@
 .navbar{
   background-color: #343A40;
+  padding-bottom: 0;
+}
+.right-nav {
+  text-decoration: none;
+  color: grey;
+}
+.search-nav{
+  text-decoration: none;
+  color: white;
 }
 
+.right-dropdown {
+  background-color: #2F353A;
+  height:100%;
+  padding:10px;
+
+}
 
 .form-white.input-group>.form-control:focus {
   border-color: #fff;
