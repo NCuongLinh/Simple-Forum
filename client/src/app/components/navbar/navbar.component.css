@@ -25,6 +25,9 @@
 
 .navbar-dark .navbar-nav .nav-link {
   color: #fff;
+  background-color: #fff;
+  height: 46px;
+
 }
 
 .navbar-dark .navbar-nav .nav-link:hover,
